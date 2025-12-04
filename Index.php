@@ -27,7 +27,7 @@
                     <i class="bi bi-calendar-date"></i>
                     <?php echo $fecha; ?>
 
-                    <i class="bi bi-clock ms-2"></i>
+                    <i class="bi bi-clock"></i>
                     <?php echo $hora; ?>
                 </p>
             </div>
