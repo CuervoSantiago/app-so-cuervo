@@ -7,7 +7,7 @@
     <title>Sistemas Operativos - Despliegue</title>
 </head>
 <body class="bg-light">
-    <div class="container min-vh-100-d-flex flex-column justify-content-center align-items-center">
+    <div class="container min-vh-100 d-flex flex-column justify-content-center align-items-center">
         <div class="card shadow-lg p-4" style="max-width: 400px; width 100%;"> 
         <?php
         $nombre = "Santiago";
